@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Josiah
+### Hi there 👋 I'm Josiah(a.k.a YaKuB)
 
 I'm like a director crafting thrilling digital adventures that shine with brilliance. My expertise revolves around building dynamic web platforms using various technologies. Together, we'll create an online blockbuster that keeps users on the edge of their virtual chairs!
 
@@ -10,7 +10,7 @@ I'm like a director crafting thrilling digital adventures that shine with brilli
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josiahmailer@gmail.com)](mailto:josiahmailer@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yakubu-josiah-34565b1b9)](https://www.linkedin.com/in/yakubu-josiah-34565b1b9)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/CittihJoey)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/yakubjosiah)
 
 <br />
 <br />
