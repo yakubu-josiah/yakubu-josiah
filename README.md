@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Josiah(a.k.a YaKuB)
+### Hi there 👋 I'm Yakubu Josiah(a.k.a YaKuB)
 
 I'm like a director crafting thrilling digital adventures that shine with brilliance. My expertise revolves around building dynamic web platforms using various technologies. Together, we'll create an online blockbuster that keeps users on the edge of their virtual chairs!
 
